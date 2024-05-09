@@ -1,0 +1,18 @@
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia 4.3.csproj.AssemblyReference.cache
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia\resources
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia 4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia 4.3.AssemblyInfoInputs.cache
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia 4.3.AssemblyInfo.cs
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia 4.3.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\bin\Debug\net7.0\Avalonia 4.3.deps.json
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\bin\Debug\net7.0\Avalonia 4.3.dll
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\bin\Debug\net7.0\Avalonia 4.3.pdb
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia\references
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia\original.dll
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia\original.pdb
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia\original.ref.dll
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\refint\Avalonia 4.3.dll
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia 4.3.dll
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\Avalonia 4.3.pdb
+C:\Users\alexd\source\repos\Avalonia 4.3\Avalonia 4.3\obj\Debug\net7.0\ref\Avalonia 4.3.dll
